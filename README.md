@@ -117,3 +117,7 @@ ai-systems-engineering/
 
 ##Started 10/15/2026
 ```
+
+## Git Practice
+
+This section is being used to practise Git branching and merging.
