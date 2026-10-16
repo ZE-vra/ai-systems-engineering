@@ -1,0 +1,300 @@
+For your goal of becoming an AI Systems Engineer who understands the mathematics behind intelligent systems, I'd recommend combining books with university-level courses and plenty of problem-solving practice.
+
+Since you prefer books, we'll make books your main resource and use courses when visual explanations or lectures make difficult concepts easier to understand.
+
+You also don't need to master all the mathematics before learning to program. We'll build your mathematical ability alongside your software engineering journey.
+
+1. Your mathematics learning path
+
+There are six main areas we'll work through over the next several years.
+
+Stage	Mathematics	Why you need it
+
+1	Algebra and functions	Build confidence manipulating equations and understanding relationships.
+2	Logic and discrete mathematics	Understand algorithms, proofs, sets, graphs, and computational reasoning.
+3	Probability and statistics	Understand uncertainty, data, distributions, and model evaluation.
+4	Linear algebra	Understand vectors, matrices, transformations, and neural network computations.
+5	Calculus	Understand derivatives, gradients, and how machine learning models are optimized.
+6	Optimization and advanced probability	Develop deeper understanding of model training, statistical learning, and research.
+
+
+You may already understand some of these subjects from school. We should review your existing knowledge rather than make you study everything from scratch.
+
+2. The books I'd recommend
+
+I've selected resources based on your long-term goal, not simply because they're popular.
+
+Book 1: Algebra and functions
+
+Algebra and Trigonometry 2e
+
+This is a free textbook that covers algebra, equations, functions, logarithms, and trigonometry.
+
+You'll use it to strengthen your foundations before progressing to more advanced mathematics.
+
+Where to get it: The official OpenStax textbook is available to read online or download as a PDF. 
+
+What to study first:
+
+Prerequisite algebra
+
+Equations and inequalities
+
+Functions and graphs
+
+Linear and polynomial functions
+
+Exponential and logarithmic functions
+
+Systems of equations
+
+
+You don't need to complete every chapter immediately. Focus on the topics that support your next learning stages.
+
+Book 2: Discrete mathematics
+
+Discrete Mathematics and Its Applications
+
+This is a well-established university textbook.
+
+It covers mathematical logic, sets, relations, functions, counting, probability, graph theory, and other topics relevant to computer science.
+
+Why it matters: Algorithms and complex software systems require more than programming syntax. Discrete mathematics helps you reason precisely about how systems behave.
+
+Study:
+
+Propositional and predicate logic
+
+Sets and functions
+
+Mathematical reasoning and proofs
+
+Algorithms and complexity
+
+Counting
+
+Graphs and trees
+
+Discrete probability
+
+
+This book is optional to purchase immediately. First, we can use free material and decide later whether owning the textbook would benefit you.
+
+Book 3: Linear algebra
+
+Introduction to Linear Algebra
+
+Linear algebra is one of the most important mathematical subjects for your eventual AI specialization.
+
+It explains the mathematics of vectors, matrices, linear transformations, eigenvalues, and related concepts.
+
+These ideas appear throughout machine learning and deep learning.
+
+Where to learn it for free: [MIT OpenCourseWare — Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/?utm_source=chatgpt.com).
+
+The course by Professor Gilbert Strang includes lectures, notes, exercises, exams, and solutions. 
+
+What to study:
+
+1. Vectors and systems of linear equations.
+
+
+2. Matrix operations and elimination.
+
+
+3. Vector spaces and linear independence.
+
+
+4. Basis and dimension.
+
+
+5. Orthogonality and projections.
+
+
+6. Eigenvalues and eigenvectors.
+
+
+7. Least-squares problems.
+
+
+8. Singular value decomposition.
+
+
+
+You don't need to begin this course right now. We'll build the necessary algebra foundation first.
+
+Book 4: Calculus
+
+For calculus, I'd begin with a free textbook rather than immediately asking you to buy another book.
+
+Calculus Volume 1
+
+You can access the official textbook through the OpenStax Calculus Volume 1 page.
+
+Focus on:
+
+Functions and limits
+
+Derivatives
+
+Derivative rules
+
+Applications of derivatives
+
+Integrals and their interpretation
+
+
+Later, you'll need partial derivatives and multivariable calculus to understand gradients in machine learning.
+
+For a lecture-based alternative, [MIT OpenCourseWare's Single Variable Calculus course](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/?utm_source=chatgpt.com) provides structured study materials.
+
+Book 5: Probability and statistics
+
+Introduction to Probability
+
+Probability and statistics will help you understand uncertainty and evaluate models properly.
+
+You'll eventually need to understand concepts such as:
+
+Conditional probability
+
+Bayes' theorem
+
+Random variables
+
+Probability distributions
+
+Expected value and variance
+
+Sampling
+
+Statistical estimation
+
+Hypothesis testing
+
+Regression
+
+
+The authors also provide free course materials through Harvard's Introduction to Probability course.
+
+This is a strong resource for developing probability skills, although you should first make sure you're comfortable with the necessary algebra.
+
+
+---
+
+3. The courses I'd use alongside your books
+
+You don't need five different courses running simultaneously.
+
+I'd choose these resources in the following order.
+
+Order	Course/resource	Purpose
+
+1	Khan Academy	Review algebra, equations, and functions.
+2	Harvard CS50's Introduction to Discrete Mathematics	Develop mathematical reasoning for computer science.
+3	MIT OpenCourseWare: Linear Algebra	Learn vectors, matrices, and linear transformations.
+4	MIT OpenCourseWare: Single Variable Calculus	Learn limits, derivatives, and integrals.
+5	Harvard: Introduction to Probability	Develop probability and statistical reasoning.
+
+
+These are established educational resources. You can use them without needing to purchase an expensive mathematics course.
+
+
+---
+
+4. How to study mathematics without getting overwhelmed
+
+Here's the approach I'd recommend.
+
+Suppose you're studying functions.
+
+Step 1: Read the textbook.
+
+Learn what a function is, study the worked examples, and identify any unfamiliar notation.
+
+Step 2: Watch a lesson if necessary.
+
+Use a course such as Khan Academy if the textbook explanation isn't clear.
+
+Step 3: Solve problems yourself.
+
+Work through exercises without immediately looking at the answers.
+
+Step 4: Investigate mistakes.
+
+If you get an answer wrong, identify whether the problem was algebra, misunderstanding the concept, or making a calculation error.
+
+Step 5: Explain the concept.
+
+Try explaining the idea in your own words and give an example.
+
+Step 6: Apply it to programming when appropriate.
+
+For instance, after learning about functions and graphs, you could write a small Python program to calculate and display values of a mathematical function.
+
+This helps connect mathematical understanding with your software engineering work.
+
+
+---
+
+5. How much time should you dedicate to mathematics?
+
+Given your university coursework, job, and independent software engineering studies, I wouldn't recommend trying to study mathematics for several hours every day.
+
+Start with 30 minutes per study day, four or five days a week.
+
+For example:
+
+Day	Mathematics activity
+
+Monday	Read and understand a new concept.
+Tuesday	Solve practice problems.
+Wednesday	Continue the lesson and review examples.
+Thursday	Solve problems independently.
+Friday	Review mistakes and test your understanding.
+
+
+That's two to two and a half hours each week.
+
+As the mathematics becomes more demanding, you can increase the time when your schedule permits.
+
+The important thing is to study consistently without allowing mathematics to consume all the time you need for programming and building projects.
+
+
+---
+
+6. My specific recommendation for you right now
+
+I want to prevent one mistake: collecting too many books and courses before you've developed a study routine.
+
+For now, use just these two resources:
+
+Primary mathematics resource: Khan Academy Mathematics
+
+Primary programming resource: Python Crash Course, 3rd Edition, by Eric Matthes.
+
+For your first mathematics phase, concentrate on:
+
+1. Fractions, ratios, percentages, and negative numbers if you need a refresher.
+
+
+2. Algebraic expressions and equations.
+
+
+3. Exponents and logarithms.
+
+
+4. Functions and graphs.
+
+
+5. Systems of equations.
+
+
+
+You can use the OpenStax textbook as a reference whenever you need more detailed explanations and exercises.
+
+Once these foundations are comfortable, we'll introduce discrete mathematics and then build toward linear algebra, probability, calculus, and optimization.
+
+One final point: You don't need to become a mathematician before you can build intelligent systems. But if you want the option of understanding and developing new machine learning methods, rather than only using existing models, a serious mathematical foundation will give you far more room to grow.
+
+We'll develop that foundation gradually, alongside your programming skills.
